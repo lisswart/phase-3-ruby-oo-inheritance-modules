@@ -171,7 +171,7 @@ Run the tests to make sure some of your tests are passing.
 
 ## Code Along III: Nested Modules
 
-In the first code along, we built a module called `Dance`, which contained methods that we intended to be used as instances methods in the `Dancer` class.
+In the first code along, we built a module called `Dance`, which contained methods that we intended to be used as instance methods in the `Dancer` class.
 
 In the second code along, we built the module `MetaDancing`, whose methods were intended to be used as class methods in the `Kid` and `Dancer` classes.
 
